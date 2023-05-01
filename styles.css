@@ -12,3 +12,10 @@
 	text-:align:left;
 	font-size: normal;
 }
+.movieDetail{
+	position:center;
+	top:10px;
+	width:100%;
+	text-align:left;
+	font-size:15px;
+}
